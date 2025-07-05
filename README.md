@@ -1,4 +1,6 @@
 # 🎮 Smiley Splash
+<img width="806" alt="image" src="https://github.com/user-attachments/assets/95dcfc87-6e78-4ead-b94c-b64907fdd045" />
+
 
 A delightful, positive game designed for young children (especially 4-year-olds) where they can click on bouncy smiley faces for pure joy and fun!
 
